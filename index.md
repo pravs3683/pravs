@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Pravs Github Pages
 
-You can use the [editor on GitHub](https://github.com/pravs3683/pravs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Praveen is here to edit [this](https://github.com/pravs3683/pravs/edit/master/index.md) to test pages.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -8,23 +8,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+Let's see without Markdown Pravs
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Header 1 Pravs
+## Header 2 Pravs
+### Header 3 Pravs
 
 - Bulleted
 - List
+- Really
+- This would be cool
 
 1. Numbered
 2. List
+3. Cool stuff
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
